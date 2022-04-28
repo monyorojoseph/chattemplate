@@ -1,0 +1,24 @@
+h1 {
+    color: hotpink;
+    font-family: cursive;
+}
+
+.app {
+  min-height: 90vh;
+}
+
+.chats-container{
+  height: 80vh;
+  background-color: rgb(255, 255, 255, .5);
+}
+
+.chats {
+  list-style: none;
+  padding: 0;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.chats li {
+  width: fit-content;
+}
