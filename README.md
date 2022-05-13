@@ -6,11 +6,6 @@ It also uses some bootstrap, am lazy when it comes to css so I relyed on bootstr
 
 ### Usage
 
-Clone the repository first. Install the parcel bundler, react and react-dom and you good to go.
-
-```
-    npm install --save-dev parcel
-    npm install --save-dev react react-dom
-```
-
-After installation, type `npm start` now open [http://localhost:1234/](http://localhost:1234/)
+ - Clone the repository
+ - Run `npm install && npm start`
+ - Open [http://localhost:1234/](http://localhost:1234/)
